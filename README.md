@@ -11,6 +11,7 @@ Para acessar o site hospedado no GitHub Pages, siga estas etapas:
 1. Abra o navegador da web de sua preferência.
 2. Digite o seguinte endereço na barra de endereços: https://nomedeusuario.github.io/nomedorepositorio, onde nomedeusuario é o seu nome de usuário do GitHub e nomedorepositorio é o nome do repositório onde o site está hospedado.
 3. Pressione Enter para carregar a página.
+4. A publicação é feita de forma automática.
 
 Após seguir essas etapas, o site será carregado no navegador, permitindo visualizar as informações sobre o desenvolvedor.
 
